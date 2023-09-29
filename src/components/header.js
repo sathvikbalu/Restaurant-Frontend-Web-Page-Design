@@ -1,7 +1,7 @@
 import React,{useState} from 'react'
 import { AppBar, Box, Divider, Drawer, IconButton, Toolbar, Typography } from '@mui/material'
 import RestaurantIcon from '@mui/icons-material/Restaurant';
-import {Link, NavLink} from "react-router-dom"
+import {NavLink} from "react-router-dom"
 import '../styles/HeaderStyles.css'
 import MenuIcon from '@mui/icons-material/Menu';
 
